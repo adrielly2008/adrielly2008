@@ -2,10 +2,9 @@
 
 - 👋 ola meu nome é @adrielly2008 
 - 👍 meu email de contato e adrielly.pfeifer.souza@escola.pr.gov.br
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 eu estou interessada em progamar novas linguagens.
+- 🌱 eu estou aprendendo a progamar recentemente a linguagens de javaScript e scratch
+
 
 <!---
 adrielly2008/adrielly2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
